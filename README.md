@@ -1,0 +1,2 @@
+# Lazymonter.github.io
+blog
